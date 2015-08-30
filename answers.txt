@@ -1,0 +1,24 @@
+Q. How many commits have been done to the repository?
+A. * commits till the time of writing this, two of them by me(the student) adn 6 inherited from the project.
+
+Q. When was the file .gitignore modified last?
+A. When the project repository was setup on the local machine.
+
+Q. List the files, which were in the repository on 08/21/2015 at 11:00PM 
+A. .classpath, .gitignore, .project, src\controller\HardwoodSeller.java,src\model\WoodItem.java
+
+Q. How many times was each of the files inside the src folder modified?
+A. Each file inside the src folder was changed twice.
+
+Q. What is the difference between git log and git status?
+A. Git log shows a history of all commits and changes to repository whereas git status shows current state of the repository in terms of uncomitted and/or unstaged files.
+
+Q. What command would you use to see the commits where “main.java” was one of the commited files?
+A. "git log -- main.java"
+
+Q. What command would you use to see the commits whose commit message contains the word “transaction”?
+A. "git log --grep="transaction" "
+
+Q. What command would you use to see the com mits made by “Lauren” between 01/05/2014 and 06/14/2015? 
+A. "git log --author="Lauren" --before="06/14/2015" --after="01/05/2015" "
+
