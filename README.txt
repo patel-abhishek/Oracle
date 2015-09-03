@@ -1,5 +1,5 @@
 Name:Abhishek Patel
-Usename: asp15c
+No CS ID yet, FSUID is asp15c
 Welcome.
 
 You have sucessfully obtained a copy of the contents in the oracle repository.
